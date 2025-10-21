@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b7cdc9;
+}
+/* Card Container Styling */
+
+.Card {
+    background: #d4dad8;
+    border: 3px solid #002df8;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+/* 
+#- Card Title Styling 
+
+*/
+div.Card h2 {
+    text-align: left;
+    color: #002df8;
+    font-size: 1.5em;
+     
+}
+h2 {
+    text-align: left;
+    color: #002df8;
+}
