@@ -1,0 +1,15 @@
+body{background-color: rgb(239, 248, 233);
+    font: 1em sans-serif;
+
+}
+h2{
+
+    
+    color: rgb(0, 152, 0);
+    font-size: 20px;
+    font-family: Amasis MT Pro Medium;
+    
+}
+ul,li{
+    list-style-type: square;
+}
