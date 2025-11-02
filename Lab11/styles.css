@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(231, 255, 255);
+    font-family: 'Segoe UI',sans-serif;
+}
+
+.card { 
+background-color: #fff; 
+color: #333; 
+border: 2px solid #2196F3; 
+border-radius: 10px; 
+
+
+
+
+/* Box Model */ 
+width: 350px; 
+height: auto; 
+padding: 20px; 
+margin: 50px auto; 
+
+
+
+/* Outline */ 
+outline: 2px dashed #FF9800; 
+outline-offset: 10px; 
+/* Shadow for depth */ 
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+} 
+.card h2 { 
+font-size: 28px;
+font-weight:   bold;
+color: #2196F3;
+}
+.card p { 
+font-size: 16px;
+color: #666;
+line-height: 1.5;
+}
