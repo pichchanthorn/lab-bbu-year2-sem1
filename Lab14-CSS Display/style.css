@@ -1,0 +1,23 @@
+.box {
+padding: 10px;
+margin: 5px;
+background-color: lightblue;
+border: 1px solid #000;
+}
+/* Add your display styles here */
+.block {
+display: block;
+}
+.inline {
+display: inline;
+}
+.inline-block {
+display: inline-block;
+}
+.none {
+display: none;
+}
+.flex-container {
+display: flex;
+gap: 10px;
+}
