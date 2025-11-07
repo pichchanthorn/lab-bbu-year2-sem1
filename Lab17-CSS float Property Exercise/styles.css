@@ -1,0 +1,30 @@
+.container {
+width: 600px;
+border: 2px solid #000;
+padding: 10px;
+margin: 20px auto;
+}
+.box {
+width: 150px;
+height: 150px;
+color: white;
+text-align: center;
+line-height: 150px;
+font-weight: bold;
+margin: 10px;
+}
+.left {
+float: left;
+background-color: teal;
+}
+.right {
+float: right;
+background-color: tomato;
+}
+.clear {
+clear: both;
+}
+.text {
+background-color: #f0f0f0;
+padding: 10px;
+}
