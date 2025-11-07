@@ -1,0 +1,46 @@
+.container {
+display: flex;
+justify-content: center;
+/* Horizontal alignment */
+align-items: center;
+/* Vertical alignment */
+height: 300px;
+border: 2px dashed #333;
+background-color: #f0f0f0;
+}
+.container:hover {
+    border-color: #ff0000;
+    background-color: #e0e0e0;
+    transition: border-color 0.3s, background-color 0.3s;
+}
+
+
+
+
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: steelblue;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box:hover {
+    background-color: darkorange;
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: transform 0.3s, background-color 0.3s;
+}
+h2:hover {
+    color: rgb(8, 0, 255);
+    cursor: pointer;
+    transition: color 0.3s;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
